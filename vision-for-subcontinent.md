@@ -1,18 +1,22 @@
 # Bharat
-– Bharatiya culture but less conservative than status quo.
 
-– Historically important cities built with Bharatiya architecture,
+Bharatiya culture but less conservative than status quo.
+
+Historically important cities built with Bharatiya architecture,
 but still matching today’s standard for infrastructure.
 
-– Bharatiya governance, legal, medical, engineering systems.
+Bharatiya governance, legal, medical, engineering systems.
 
 # India
-– A mix of world’s cultures.
 
-– Foreign influenced cities with infrastructure matching standards
+A mix of world’s cultures.
+
+Foreign influenced cities with infrastructure matching standards
 of the west, the east and the middle east.
 
-– International governance, legal, medical, engineering systems.
+International governance, legal, medical, engineering systems.
+
+# Miscellaneous
 
 Individual cities would have the choice to align with either Bharat or India.
 But it’s likely that they will either end up aligning with a regional power,
