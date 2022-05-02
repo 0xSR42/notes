@@ -2,4 +2,4 @@
 
 [Notes On Governance](notes-on-governance)
 
-[Vision For Subcontinet](vision-for-subcontinent)
+[Vision For Subcontinent](vision-for-subcontinent)

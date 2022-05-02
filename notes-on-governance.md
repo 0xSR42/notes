@@ -13,15 +13,15 @@ exactly ideal because they can’t be used to explain or study all the truths in
 society.
 (Godel, [Incompleteness Theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems))
 
-Furthermore these ideologies are relatively new
+Furthermore, these ideologies are relatively new
 (one or two centuries old at most) and incomplete compared to history.
-Therefore one should use individualism to one’s advantage.
+Therefore, one should use individualism to one’s advantage.
 Enemies of open society will use misinformation, propaganda, lies,
 gas-lighting and other forms of psychological manipulation to make life hell
 for others.
 (Popper, [Open Society and its Enemies](https://www.economist.com/democracy-in-america/2016/01/31/from-the-archives-the-open-society-and-its-enemies-revisited))
 
-A large population comprising of cultures with different governance systems
+A large population consisting of cultures with different governance systems
 which have conflicting tenets, can’t be governed by a single mind for that
 person will either enforce their cognitive bias on others or suffer from
 cognitive dissonance if they choose to make sense out of conflicting
@@ -40,7 +40,7 @@ where information is entering and leaving minds (and bodies) and making these
 beings undertake some cause (karma) or effect (phala) to change things around
 them. If you know what others are thinking, you can predict future to some
 degree. Reincarnation is a future being continuing the work of a deceased one.
-Law of Karma is more general than tit for tat and entails a Karmic cycle.
+Law of Karma is more general than tit-for-tat and entails a Karmic cycle.
 (Psychology, Gita)
 
 To be able to govern effectively you need to understand the history,
@@ -48,7 +48,7 @@ psychology, demographics, power and governance systems of your entire
 population as well as your adversaries. (British Raj)
 
 Some theorists worth reading: Chanakya, Nicolo Machiavelli, Robert Axelrod,
-George Orwell, John Nash, John Von Neumann.
+George Orwell, John Nash, John von Neumann.
 
 Humans have sometimes moved forwards in time, and sometimes backwards, and
 sometimes stood still for thousands of years.
@@ -65,8 +65,8 @@ humans. Conflict can be physical, verbal or psychological. Other ways to
 define conflict could be along the lines of gender, caste, community, race or
 religion.
 
-When it comes to the question of whether to accept unjust peace or fight a
-just war, humans could choose to engage in the minimal conflict that allows
+When it comes to whether to accept unjust peace or fight a just war, humans
+could choose to engage in the minimal conflict that allows
 for progress to be made on any given issue. Minimal conflict can be defined
 as the minimal set of actions which constitute the given conflict.
 
@@ -77,19 +77,19 @@ means, where the fog of war can make it hard to keep things under control.
 To find out the minimum amount of resources needed to enact the minimal
 conflict, one can start with a small amount, increase the amount
 exponentially (say double them) and observe results after every iteration.
-Note that if you have a really stubborn enemy then you’d end up enacting a
+Note that if you have a really stubborn enemy then you might end up enacting a
 total war.
 
 Another way to deal with such a scenario would be to redesign society and
 economy. Individuals who are prone to engaging in conflict can be moved apart
-in terms of distance in the social graph, and those who trust each can
-continue living and working closely.
+in terms of distance in the social graph, and those who trust each other can
+continue to live and work closely.
 
 One more approach could be to have people with conflicting views collect
 in one place, and have a neutral party find balance in those conflicting
 views. This approach comes especially handy when you have participants with
-different perceptions of reality. Also this approach is markedly different
-from divide and rule, or a two cats and a monkey arrangement; and therefore
+different perceptions of reality. Also, this approach is markedly different
+from divide and rule, or two cats and a monkey arrangement; and therefore
 needs a worthy neutral party to properly execute it.
 ([Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven), [The Trial of the Chicago 7](https://en.wikipedia.org/wiki/The_Trial_of_the_Chicago_7))
 
@@ -130,7 +130,7 @@ if the couples match karma with each other. But if that is not acceptable to
 either party, then phala of the karma might get delivered differently,
 depending upon how the world moves forwards in time.
 
-Sex work and pornography are some of the occupations in society which add to
+Sex work and pornography are some occupations in society which add to
 the problem of inceldom.
 ([Hot Girls Wanted](https://en.wikipedia.org/wiki/Hot_Girls_Wanted))
 
@@ -141,9 +141,9 @@ population by establishing the Nash Equilibrium of the same.
 
 The culture of a society or a country is also impacted by the karmic footprint
 of its leader. If you elect someone with a poor karmic footprint as your
-leader, then directly or indirectly, you’d be enabling that particular karmic
-footprint to be enacted at a large scale in your society or country. Similar
-arguments can be made for economy and enterprise owners.
+leader, then copycats can use that as an opportunity to enact that karmic
+footprint at a large scale and disturb culture in the given society or
+country. Similar arguments can be made for economy and enterprise owners.
 
 A person’s caste decides their behavior to some extent, but the likely
 contributing factor there is that person’s DNA, psychology and personality.
@@ -151,19 +151,20 @@ contributing factor there is that person’s DNA, psychology and personality.
 The Varna system is an elegant and minimal governance system. It has one
 ordinary varna (Sudra) and three specialist ones (Brahmin, Kshatriya, Vaisya).
 
-Note that 3 is the minimum number of nodes needed to have a fault tolerant
+Note that 3 is the minimum number of nodes needed to have a fault-tolerant
 consensus driven system, in distributed systems thought process. Some examples
 of faults in real world would be – node failure: key members of government
 falling sick or dying, network partition: communication channels breaking down
-leading to echo chambers, byzantine failure: unreliable or cunning members in
-your government.
+leading to echo chambers, Byzantine failure: unreliable or cunning members in
+your government or organization.
 
-Autocratic governments seem to work only on a homogeneous population.
-Democracy seems better suited for a diverse population.
+Autocratic governments allow for more efficent governance on a homogeneous
+population which trusts each other. Democracy seems better suited for a
+diverse population which is prone to engaging in conflict with each other.
 
 Martial races are needed for defense of a society and country. If they do love
-marriage with non martial races, then they are mixing their DNA, and therefore
-making their country easy to penetrate compared to others which don’t do the
+marriage with non-martial races, then they are mixing their DNA, and therefore
+making their country easier to penetrate compared to others which don’t do the
 same. ([Martial Race](https://en.wikipedia.org/wiki/Martial_race))
 
 Large institutions and organizations absorb obeyers better than thinkers, and
@@ -171,14 +172,15 @@ dissenters usually have a hard time staying put.
 
 Organization design plays an important role in the functioning and efficiency
 of the same. Traditionally organizations have been designed as pyramids, but
-families are a better design, for the former can lead to authoritarianism. Of
-course there are other proven designs of organizations such as republics.
+families are a better design, for the former can lead to authoritarianism from
+the top, and conflict with those who fall off the pyramid. Of course there are
+other proven designs of organizations such as republics.
 
 Developmental psychology must be taken care of when trying to raise the next
 generation of society. Children and young people are susceptible to absorbing
 unhealthy information or seeking taboo knowledge, and if it happens at a large
 scale then it would produce a less than admirable youth.
 
-Technology enables efficient governance, but can be misused if falls in wrong
-hands. Your data is a footprint of your thought process, and if your
+Technology enables efficient governance, but it can be misused if falls in
+wrong hands. Your data is a footprint of your thought process, and if your
 adversaries have access to it, they can use it to cause harm to you.
