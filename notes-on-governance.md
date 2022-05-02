@@ -184,3 +184,10 @@ scale then it would produce a less than admirable youth.
 Technology enables efficient governance, but it can be misused if falls in
 wrong hands. Your data is a footprint of your thought process, and if your
 adversaries have access to it, they can use it to cause harm to you.
+
+Humans often lie or convey information inaccurately. Therefore, truth
+discovery is an important step in real word decision-making.
+([Truth discovery](https://en.wikipedia.org/wiki/Truth_discovery),
+[Pramana](https://en.wikipedia.org/wiki/Pramana),
+[Truth vs Perception vs Reality](https://ed.ted.com/on/AsddeXsA)
+)
