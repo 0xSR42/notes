@@ -91,7 +91,8 @@ views. This approach comes especially handy when you have participants with
 different perceptions of reality. Also, this approach is markedly different
 from divide and rule, or two cats and a monkey arrangement; and therefore
 needs a worthy neutral party to properly execute it.
-([Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven), [The Trial of the Chicago 7](https://en.wikipedia.org/wiki/The_Trial_of_the_Chicago_7))
+([Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven),
+[The Trial of the Chicago 7](https://en.wikipedia.org/wiki/The_Trial_of_the_Chicago_7))
 
 Cultures have historically used fear, shame and guilt to maintain control.
 Isolation and Incarceration are two other ways that societies use to
@@ -111,17 +112,26 @@ Breaking caste system by switching Varnas through education and training,
 seems to lead to lesser conflict, as compared to breaking caste system
 through (Gandharva) Vivaha.
 
+Its also better to mix cultures and castes through sides and not centres.
+Eloping with a Helen of Troy or a Samyukta of Gahadavala would lead to
+more conflict.
+
+To effectively break caste system, you need folks of all four varnas with
+roughly equal proportion, amongst all castes (, community, race or religion).
+
 Marriages in Hinduism are guided by scriptures such as Manusmriti, and
 disallow marriage between Sapindas.
 ([Sapindas](https://en.wikipedia.org/wiki/Sapinda))
 
 In western thought, stable marriage is one pragmatic way to go about love
-marriages at scale. ([Stable Marriage](https://en.wikipedia.org/wiki/Stable_marriage_problem))
+marriages at scale.
+([Stable Marriage](https://en.wikipedia.org/wiki/Stable_marriage_problem))
 
 If someone still prefers the Gandharva Vivaha approach then AB and BA pairs
 need to be made, which balance each other out, or one might end up with the
 problem of inceldom. A and B could represent race, religion, community or
-caste. ([Demographics of Inceldom](https://incels.wiki/w/Demographics_of_inceldom))
+caste.
+([Demographics of Inceldom](https://incels.wiki/w/Demographics_of_inceldom))
 
 Making these pairs at a finer classification such as surname (, title or
 gotra) level might be going down a rabbit hole. This approach can be applied
