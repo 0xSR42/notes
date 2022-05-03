@@ -158,6 +158,9 @@ falling sick or dying, network partition: communication channels breaking down
 leading to echo chambers, Byzantine failure: unreliable or cunning members in
 your government or organization.
 
+Hindu governance system has been designed to internalise the conflict.
+([Slavery in India](https://en.wikipedia.org/wiki/Slavery_in_India))
+
 Autocratic governments allow for more efficent governance on a homogeneous
 population which trusts each other. Democracy seems better suited for a
 diverse population which is prone to engaging in conflict with each other.
@@ -189,5 +192,4 @@ Humans often lie or convey information inaccurately. Therefore, truth
 discovery is an important step in real word decision-making.
 ([Truth discovery](https://en.wikipedia.org/wiki/Truth_discovery),
 [Pramana](https://en.wikipedia.org/wiki/Pramana),
-[Truth vs Perception vs Reality](https://ed.ted.com/on/AsddeXsA)
-)
+[Truth vs Perception vs Reality](https://ed.ted.com/on/AsddeXsA))
