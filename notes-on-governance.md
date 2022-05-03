@@ -1,6 +1,6 @@
 # Notes on Governance
 
-## Game Theory and Governance
+### Game Theory and Governance
 
 Open source governance systems can be broken down by adversaries.
 Play chess and other games with your adversaries to build reputation or trust.
@@ -10,7 +10,7 @@ Closed source governance systems can also be broken down if you have a worthy
 or notorious adversary.
 ([iCloud Leaks](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak))
 
-## Ideology and Truth
+### Ideology and Truth
 
 Axiomatic ideologies (such as feminism, liberalism or communism) aren’t
 exactly ideal because they can’t be used to explain or study all the truths in
@@ -31,7 +31,7 @@ discovery is an important step in real word decision-making.
 [Pramana](https://en.wikipedia.org/wiki/Pramana),
 [Truth vs Perception vs Reality](https://ed.ted.com/on/AsddeXsA))
 
-## Psychology and Language
+### Psychology and Language
 
 A large population consisting of cultures with different governance systems
 which have conflicting tenets, can’t be governed by a single mind for that
@@ -65,7 +65,7 @@ Technology enables efficient governance, but it can be misused if falls in
 wrong hands. Your data is a footprint of your thought process, and if your
 adversaries have access to it, they can use it to cause harm to you.
 
-## History and Social Science
+### History and Social Science
 
 To be able to govern effectively you need to understand the history,
 psychology, demographics, power and governance systems of your entire
@@ -78,7 +78,7 @@ Humans have sometimes moved forwards in time, and sometimes backwards, and
 sometimes stood still for thousands of years.
 (Churchill, [Fifty Years Hence](https://www.nationalchurchillmuseum.org/fifty-years-hence.html))
 
-## Conflict and War
+### Conflict and War
 
 Conflict is in human nature but too much of it can destroy civilizations and
 too little can stall progress. Another way to state this would be to say that
@@ -120,7 +120,7 @@ needs a worthy neutral party to properly execute it.
 ([Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven),
 [The Trial of the Chicago 7](https://en.wikipedia.org/wiki/The_Trial_of_the_Chicago_7))
 
-## Religion and Mythology
+### Religion and Mythology
 
 Religion and mythology is most likely fictionalized history.
 
@@ -159,7 +159,7 @@ your government or organization.
 Hindu governance system has been designed to internalise the conflict.
 ([Slavery in India](https://en.wikipedia.org/wiki/Slavery_in_India))
 
-## Culture and Marriage
+### Culture and Marriage
 
 Cultures have historically used fear, shame and guilt to maintain control.
 Isolation and Incarceration are two other ways that societies use to
@@ -201,7 +201,7 @@ leader, then copycats can use that as an opportunity to enact that karmic
 footprint at a large scale and disturb culture in the given society or
 country. Similar arguments can be made for economy and enterprise owners.
 
-## Society and Design
+### Society and Design
 
 Martial races are needed for defense of a society and country. If they do love
 marriage with non-martial races, then they are mixing their DNA, and therefore
