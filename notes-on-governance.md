@@ -1,5 +1,7 @@
 # Notes on Governance
 
+## Game Theory and Governance
+
 Open source governance systems can be broken down by adversaries.
 Play chess and other games with your adversaries to build reputation or trust.
 (Game Theory, [The Evolution of Trust](https://ncase.me/trust/))
@@ -7,6 +9,8 @@ Play chess and other games with your adversaries to build reputation or trust.
 Closed source governance systems can also be broken down if you have a worthy
 or notorious adversary.
 ([iCloud Leaks](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak))
+
+## Ideology and Truth
 
 Axiomatic ideologies (such as feminism, liberalism or communism) aren’t
 exactly ideal because they can’t be used to explain or study all the truths in
@@ -21,15 +25,24 @@ gas-lighting and other forms of psychological manipulation to make life hell
 for others.
 (Popper, [Open Society and its Enemies](https://www.economist.com/democracy-in-america/2016/01/31/from-the-archives-the-open-society-and-its-enemies-revisited))
 
+Humans often lie or convey information inaccurately. Therefore, truth
+discovery is an important step in real word decision-making.
+([Truth discovery](https://en.wikipedia.org/wiki/Truth_discovery),
+[Pramana](https://en.wikipedia.org/wiki/Pramana),
+[Truth vs Perception vs Reality](https://ed.ted.com/on/AsddeXsA))
+
+## Psychology and Language
+
 A large population consisting of cultures with different governance systems
 which have conflicting tenets, can’t be governed by a single mind for that
 person will either enforce their cognitive bias on others or suffer from
 cognitive dissonance if they choose to make sense out of conflicting
 information.
 
-Cognitive Biases classify mistakes in thought process, and Logical Fallacies
+Cognitive biases classify mistakes in thought process, and logical fallacies
 describe mistakes in logical or natural language arguments.
-([Cognitive Bias](https://en.wikipedia.org/wiki/Cognitive_bias), [Fallacy](https://en.wikipedia.org/wiki/Fallacy))
+([Cognitive Bias](https://en.wikipedia.org/wiki/Cognitive_bias),
+[Fallacy](https://en.wikipedia.org/wiki/Fallacy))
 
 Verbal political dissent is needed for a democratic system to survive, but the
 language and style of the same can make or break the dissenter’s case. Violent
@@ -43,6 +56,17 @@ degree. Reincarnation is a future being continuing the work of a deceased one.
 Law of Karma is more general than tit-for-tat and entails a Karmic cycle.
 (Psychology, Gita)
 
+Developmental psychology must be taken care of when trying to raise the next
+generation of society. Children and young people are susceptible to absorbing
+unhealthy information or seeking taboo knowledge, and if it happens at a large
+scale then it would produce a less than admirable youth.
+
+Technology enables efficient governance, but it can be misused if falls in
+wrong hands. Your data is a footprint of your thought process, and if your
+adversaries have access to it, they can use it to cause harm to you.
+
+## History and Social Science
+
 To be able to govern effectively you need to understand the history,
 psychology, demographics, power and governance systems of your entire
 population as well as your adversaries. (British Raj)
@@ -53,6 +77,8 @@ George Orwell, John Nash, John von Neumann.
 Humans have sometimes moved forwards in time, and sometimes backwards, and
 sometimes stood still for thousands of years.
 (Churchill, [Fifty Years Hence](https://www.nationalchurchillmuseum.org/fifty-years-hence.html))
+
+## Conflict and War
 
 Conflict is in human nature but too much of it can destroy civilizations and
 too little can stall progress. Another way to state this would be to say that
@@ -94,9 +120,7 @@ needs a worthy neutral party to properly execute it.
 ([Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven),
 [The Trial of the Chicago 7](https://en.wikipedia.org/wiki/The_Trial_of_the_Chicago_7))
 
-Cultures have historically used fear, shame and guilt to maintain control.
-Isolation and Incarceration are two other ways that societies use to
-maintain control.
+## Religion and Mythology
 
 Religion and mythology is most likely fictionalized history.
 
@@ -112,12 +136,34 @@ Breaking caste system by switching Varnas through education and training,
 seems to lead to lesser conflict, as compared to breaking caste system
 through (Gandharva) Vivaha.
 
-Its also better to mix cultures and castes through sides and not centres.
+It's also better to mix cultures and castes through sides and not centres.
 Eloping with a Helen of Troy or a Samyukta of Gahadavala would lead to
 more conflict.
 
 To effectively break caste system, you need folks of all four varnas with
 roughly equal proportion, amongst all castes (, community, race or religion).
+
+A person’s caste decides their behavior to some extent, but the likely
+contributing factor there is that person’s DNA, psychology and personality.
+
+The Varna system is an elegant and minimal governance system. It has one
+ordinary varna (Sudra) and three specialist ones (Brahmin, Kshatriya, Vaisya).
+
+Note that 3 is the minimum number of nodes needed to have a fault-tolerant
+consensus driven system, in distributed systems thought process. Some examples
+of faults in real world would be – node failure: key members of government
+falling sick or dying, network partition: communication channels breaking down
+leading to echo chambers, Byzantine failure: unreliable or cunning members in
+your government or organization.
+
+Hindu governance system has been designed to internalise the conflict.
+([Slavery in India](https://en.wikipedia.org/wiki/Slavery_in_India))
+
+## Culture and Marriage
+
+Cultures have historically used fear, shame and guilt to maintain control.
+Isolation and Incarceration are two other ways that societies use to
+maintain control.
 
 Marriages in Hinduism are guided by scriptures such as Manusmriti, and
 disallow marriage between Sapindas.
@@ -155,30 +201,16 @@ leader, then copycats can use that as an opportunity to enact that karmic
 footprint at a large scale and disturb culture in the given society or
 country. Similar arguments can be made for economy and enterprise owners.
 
-A person’s caste decides their behavior to some extent, but the likely
-contributing factor there is that person’s DNA, psychology and personality.
-
-The Varna system is an elegant and minimal governance system. It has one
-ordinary varna (Sudra) and three specialist ones (Brahmin, Kshatriya, Vaisya).
-
-Note that 3 is the minimum number of nodes needed to have a fault-tolerant
-consensus driven system, in distributed systems thought process. Some examples
-of faults in real world would be – node failure: key members of government
-falling sick or dying, network partition: communication channels breaking down
-leading to echo chambers, Byzantine failure: unreliable or cunning members in
-your government or organization.
-
-Hindu governance system has been designed to internalise the conflict.
-([Slavery in India](https://en.wikipedia.org/wiki/Slavery_in_India))
-
-Autocratic governments allow for more efficent governance on a homogeneous
-population which trusts each other. Democracy seems better suited for a
-diverse population which is prone to engaging in conflict with each other.
+## Society and Design
 
 Martial races are needed for defense of a society and country. If they do love
 marriage with non-martial races, then they are mixing their DNA, and therefore
 making their country easier to penetrate compared to others which don’t do the
 same. ([Martial Race](https://en.wikipedia.org/wiki/Martial_race))
+
+Autocratic governments allow for more efficent governance on a homogeneous
+population which trusts each other. Democracy seems better suited for a
+diverse population which is prone to engaging in conflict with each other.
 
 Large institutions and organizations absorb obeyers better than thinkers, and
 dissenters usually have a hard time staying put.
@@ -188,18 +220,3 @@ of the same. Traditionally organizations have been designed as pyramids, but
 families are a better design, for the former can lead to authoritarianism from
 the top, and conflict with those who fall off the pyramid. Of course there are
 other proven designs of organizations such as republics.
-
-Developmental psychology must be taken care of when trying to raise the next
-generation of society. Children and young people are susceptible to absorbing
-unhealthy information or seeking taboo knowledge, and if it happens at a large
-scale then it would produce a less than admirable youth.
-
-Technology enables efficient governance, but it can be misused if falls in
-wrong hands. Your data is a footprint of your thought process, and if your
-adversaries have access to it, they can use it to cause harm to you.
-
-Humans often lie or convey information inaccurately. Therefore, truth
-discovery is an important step in real word decision-making.
-([Truth discovery](https://en.wikipedia.org/wiki/Truth_discovery),
-[Pramana](https://en.wikipedia.org/wiki/Pramana),
-[Truth vs Perception vs Reality](https://ed.ted.com/on/AsddeXsA))
