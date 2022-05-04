@@ -186,6 +186,11 @@ if the couples match karma with each other. But if that is not acceptable to
 either party, then phala of the karma might get delivered differently,
 depending upon how the world moves forwards in time.
 
+Martial races are needed for defense of a society and country. If they do love
+marriage with non-martial races, then they are mixing their DNA, and therefore
+making their country easier to penetrate compared to others which don’t do the
+same. ([Martial Race](https://en.wikipedia.org/wiki/Martial_race))
+
 Sex work and pornography are some occupations in society which add to
 the problem of inceldom.
 ([Hot Girls Wanted](https://en.wikipedia.org/wiki/Hot_Girls_Wanted))
@@ -202,11 +207,6 @@ footprint at a large scale and disturb culture in the given society or
 country. Similar arguments can be made for economy and enterprise owners.
 
 ### Society and Design
-
-Martial races are needed for defense of a society and country. If they do love
-marriage with non-martial races, then they are mixing their DNA, and therefore
-making their country easier to penetrate compared to others which don’t do the
-same. ([Martial Race](https://en.wikipedia.org/wiki/Martial_race))
 
 Autocratic governments allow for more efficent governance on a homogeneous
 population which trusts each other. Democracy seems better suited for a
