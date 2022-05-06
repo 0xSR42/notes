@@ -59,7 +59,10 @@ Law of Karma is more general than tit-for-tat and entails a Karmic cycle.
 Developmental psychology must be taken care of when trying to raise the next
 generation of society. Children and young people are susceptible to absorbing
 unhealthy information or seeking taboo knowledge, and if it happens at a large
-scale then it would produce a less than admirable youth.
+scale then it would produce a less than admirable youth. If you seed certain
+ideas in a young woman's mind, who could have been a professional, she might as
+well become a sex worker. By a similar logic, a young man who could have been a
+productive member of economy and society, might as well become a criminal.
 
 Technology enables efficient governance, but it can be misused if falls in
 wrong hands. Your data is a footprint of your thought process, and if your
