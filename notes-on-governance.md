@@ -66,10 +66,6 @@ ideas in a young woman's mind, who could have been a professional, she might as
 well become a sex worker. By a similar logic, a young man who could have been a
 productive member of economy and society, might as well become a criminal.
 
-Technology enables efficient governance, but it can be misused if falls in
-wrong hands. Your data is a footprint of your thought process, and if your
-adversaries have access to it, they can use it to cause harm to you.
-
 ### History and Social Science
 
 To be able to govern effectively you need to understand the history,
@@ -225,3 +221,10 @@ of the same. Traditionally organizations have been designed as pyramids, but
 families are a better design, for the former can lead to authoritarianism from
 the top, and conflict with those who fall off the pyramid. Of course there are
 other proven designs of organizations such as republics.
+
+
+### Technology and Data
+
+Technology enables efficient governance, but it can be misused if falls in
+wrong hands. Your data is a footprint of your thought process, and if your
+adversaries have access to it, they can use it to cause harm to you.
