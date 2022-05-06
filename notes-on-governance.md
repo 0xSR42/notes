@@ -228,3 +228,9 @@ other proven designs of organizations such as republics.
 Technology enables efficient governance, but it can be misused if falls in
 wrong hands. Your data is a footprint of your thought process, and if your
 adversaries have access to it, they can use it to cause harm to you.
+
+Consumer tech products, such as search and social, enable people to retrieve
+information quickly and connect with each other, but malicious human behaviour
+would require moderation. Also, content moderation and end-to-end encryption
+are not compatible with each other.
+([Content moderation for end-to-end encrypted messaging](https://cyberlaw.stanford.edu/publications/content-moderation-end-end-encrypted-messaging))
