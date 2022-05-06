@@ -12,6 +12,8 @@ or notorious adversary.
 
 ### Ideology and Truth
 
+(This section lacks logical rigor.)
+
 Axiomatic ideologies (such as feminism, liberalism or communism) aren’t
 exactly ideal because they can’t be used to explain or study all the truths in
 society.
