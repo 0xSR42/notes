@@ -7,7 +7,12 @@ process.
 Free market capitalism rewards hard work and smart work alike, but malevolent
 actors can cheat to their advantage.
 
-Real world economies are more likely to be mixed economies.
+Real world economies are more likely to be mixed economies. USA and Indian
+economies are described as market economies, whereas Germany and China try to
+combine socialism and capitalism differently in their respective economies.
+([Market economy](https://en.wikipedia.org/wiki/Market_economy),
+[Social market economy](https://en.wikipedia.org/wiki/Social_market_economy),
+[Socialist market economy](https://en.wikipedia.org/wiki/Socialist_market_economy))
 
 Public companies can be seen as governance models as they share many problems
 with a government, such as those of economics and culture.
