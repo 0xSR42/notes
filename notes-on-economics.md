@@ -1,6 +1,8 @@
 # Notes on Economics
 
 Socialist economies are more peaceful, as they cater to needs of more people.
+But crony socialism can creep into institutions, corrupting them in the
+process.
 
 Free market capitalism rewards hard work and smart work alike, but malevolent
 actors can cheat to their advantage.
@@ -16,4 +18,7 @@ world problems.
 Capital plays an important role in building or breaking culture. One can
 choose to build an economy of knowledge workers, and not one of sex workers.
 
-Economists worth reading: Adam Smith, Ray Dalio.
+Going Dutch is one reasonable way to decide division of cost of any given
+activity. ([Going Dutch](https://en.wikipedia.org/wiki/Going_Dutch))
+
+Economic thinkers worth reading: Adam Smith, Ray Dalio.
