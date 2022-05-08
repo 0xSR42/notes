@@ -137,10 +137,6 @@ Breaking caste system by switching Varnas through education and training,
 seems to lead to lesser conflict, as compared to breaking caste system
 through (Gandharva) Vivaha.
 
-It's also better to mix cultures and castes through sides and not centres.
-Eloping with a Helen of Troy or a Samyukta of Gahadavala would lead to
-more conflict.
-
 To effectively break caste system, you need folks of all four varnas with
 roughly equal proportion, amongst all castes (, community, race or religion).
 
@@ -186,6 +182,10 @@ to dating as well, but since these relationships aren’t permanent, it’s bett
 if the couples match karma with each other. But if that is not acceptable to
 either party, then phala of the karma might get delivered differently,
 depending upon how the world moves forwards in time.
+
+It's also better to mix cultures and castes through sides and not centres.
+Eloping with a Helen of Troy or a Samyukta of Gahadavala would lead to
+more conflict.
 
 Martial races are needed for defense of a society and country. If they do love
 marriage with non-martial races, then they are mixing their DNA, and therefore
