@@ -181,7 +181,8 @@ gotra) level might be going down a rabbit hole. This approach can be applied
 to dating as well, but since these relationships aren’t permanent, it’s better
 if the couples match karma with each other. But if that is not acceptable to
 either party, then phala of the karma might get delivered differently,
-depending upon how the world moves forwards in time.
+depending upon how the world moves forwards in time. One possibility is public
+shaming, another could be children facing the phala of their parents' karma.
 
 It's also better to mix cultures and castes through sides and not centres.
 Eloping with a Helen of Troy or a Samyukta of Gahadavala would lead to
