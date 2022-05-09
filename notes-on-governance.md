@@ -130,10 +130,10 @@ The classification of humans into Asuras and Devas in Hinduism is a useful one.
 
 Caste system evolved in Hinduism around Maurya or Gupta dynasties,
 probably because it led to lesser conflict at that time compared to
-Varna system that was in place before that. Mahabharata is one account in
-Hinduism which had Varna system in place.
+varna system that was in place before that. Mahabharata is one account in
+Hinduism which had varna system in place.
 
-Breaking caste system by switching Varnas through education and training,
+Breaking caste system by switching varnas through education and training,
 seems to lead to lesser conflict, as compared to breaking caste system
 through (Gandharva) Vivaha.
 
@@ -143,7 +143,7 @@ roughly equal proportion, amongst all castes (, community, race or religion).
 A person’s caste decides their behavior to some extent, but the likely
 contributing factor there is that person’s DNA, psychology and personality.
 
-The Varna system is an elegant and minimal governance system. It has one
+The varna system is an elegant and minimal governance system. It has one
 ordinary varna (Sudra) and three specialist ones (Brahmin, Kshatriya, Vaisya).
 
 Note that 3 is the minimum number of nodes needed to have a fault-tolerant
@@ -181,8 +181,9 @@ gotra) level might be going down a rabbit hole. This approach can be applied
 to dating as well, but since these relationships aren’t permanent, it’s better
 if the couples match karma with each other. But if that is not acceptable to
 either party, then phala of the karma might get delivered differently,
-depending upon how the world moves forwards in time. One possibility is public
-shaming, another could be children facing the phala of their parents' karma.
+depending upon how the world moves forwards in time. Some possibilities are -
+public shaming, intervention through legal justice system, children facing the
+phala of their parents' karma, etc.
 
 It's also better to mix cultures and castes through sides and not centres.
 Eloping with a Helen of Troy or a Samyukta of Gahadavala would lead to
