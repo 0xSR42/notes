@@ -26,4 +26,9 @@ choose to build an economy of knowledge workers, and not one of sex workers.
 Going Dutch is one reasonable way to decide division of cost of any given
 activity. ([Going Dutch](https://en.wikipedia.org/wiki/Going_Dutch))
 
+Hedging is an idea which comes useful outside of trading world as well. You
+can spend your money on products or services which counter each other's use
+case, therefore reducing your risk on either.
+([Hedge](https://www.investopedia.com/terms/h/hedge.asp))
+
 Economic thinkers worth reading: Adam Smith, Ray Dalio.
