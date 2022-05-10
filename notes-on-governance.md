@@ -162,18 +162,18 @@ Cultures have historically used fear, shame and guilt to maintain control.
 Isolation and Incarceration are two other ways that societies use to
 maintain control.
 
-Marriages in Hinduism are guided by scriptures such as Manusmriti, and
-disallow marriage between Sapindas.
-([Sapindas](https://en.wikipedia.org/wiki/Sapinda))
-
 In western thought, stable marriage is one pragmatic way to go about love
 marriages at scale.
 ([Stable Marriage](https://en.wikipedia.org/wiki/Stable_marriage_problem))
 
-If someone still prefers the Gandharva Vivaha approach then AB and BA pairs
-need to be made, which balance each other out, or one might end up with the
-problem of inceldom. A and B could represent race, religion, community or
-caste.
+Marriages in Hinduism are guided by scriptures such as Manusmriti, and
+disallow marriage between Sapindas.
+([Sapindas](https://en.wikipedia.org/wiki/Sapinda))
+
+If one prefers the Gandharva Vivaha approach over Brahma Vivaha one, then AB
+and BA pairs need to be made, which balance each other out, or one might end
+up with the problem of inceldom. A and B could represent race, religion,
+community or caste.
 ([Demographics of Inceldom](https://incels.wiki/w/Demographics_of_inceldom))
 
 Making these pairs at a finer classification such as surname (, title or
@@ -223,7 +223,6 @@ of the same. Traditionally organizations have been designed as pyramids, but
 families are a better design, for the former can lead to authoritarianism from
 the top, and conflict with those who fall off the pyramid. Of course there are
 other proven designs of organizations such as republics.
-
 
 ### Technology and Data
 
