@@ -1,5 +1,11 @@
 # Notes on Governance
 
+DISCLAIMER: Just like any theory of governance, these notes are based on the
+knowledge and conditions of the time when they were written. These notes may
+or may not be fully applicable in other settings. The reader is advised to
+think about this material, and not to blindly obey and apply it for their use
+case.
+
 ### Game Theory and Governance
 
 Open source governance systems can be broken down by adversaries.
