@@ -94,8 +94,8 @@ of time.
 
 Conflict exists primarily in me vs you, me vs us and us vs them forms between
 humans. Conflict can be physical, verbal or psychological. Other ways to
-define conflict could be along the lines of gender, caste, community, race or
-religion.
+define conflict could be along the lines of gender, caste, community, race,
+religion, culture or nation.
 
 When it comes to whether to accept unjust peace or fight a just war, humans
 could choose to engage in the minimal conflict that allows
