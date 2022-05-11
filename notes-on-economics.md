@@ -15,7 +15,8 @@ combine socialism and capitalism differently in their respective economies.
 [Socialist market economy](https://en.wikipedia.org/wiki/Socialist_market_economy))
 
 Public companies can be seen as governance models as they share many problems
-with a government, such as those of economics and culture.
+with a government, such as those of governance, diversity, economics and
+culture.
 
 Startups can be seen as instruments of change in real world, by solving real
 world problems.
