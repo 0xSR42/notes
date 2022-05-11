@@ -83,9 +83,8 @@ sometimes stood still for thousands of years.
 
 Conflict is in human nature but too much of it can destroy civilizations and
 too little can stall progress. Another way to state this would be to say that
-society needs to engage in conflict to move forward the wheel of time.
-While moving the wheel of time one has to take care of whether to move it
-forwards or backwards in time.
+society needs to engage in conflict to move (forwards or backwards) the wheel
+of time.
 
 Conflict exists primarily in me vs you, me vs us and us vs them forms between
 humans. Conflict can be physical, verbal or psychological. Other ways to
