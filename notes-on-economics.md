@@ -19,7 +19,10 @@ with a government, such as those of governance, diversity, economics and
 culture.
 
 Startups can be seen as instruments of change in real world, by solving real
-world problems.
+world problems. Furthermore, once a problem has been identified, startups allow
+rapid generation of new jobs in economy for skilled and unskilled labour, by
+breaking the larger problem into smaller pieces which individuals or teams can
+solve.
 
 The problems of governance, diversity, economics and culture can also be tied
 to a currency. In times of conflict and mistrust, digital and cryptocurrencies
