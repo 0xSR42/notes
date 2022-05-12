@@ -21,6 +21,12 @@ culture.
 Startups can be seen as instruments of change in real world, by solving real
 world problems.
 
+The problems of governance, diversity, economics and culture can also be tied
+to a currency. In times of conflict and mistrust, digital and cryptocurrencies
+can allow preserving different cultures, by reducing their dependence on a
+centrally managed currency which is subject to notorius authoritarianism.
+([Howey test](https://www.investopedia.com/terms/h/howey-test.asp))
+
 Capital plays an important role in building or breaking culture. One can
 choose to build an economy of knowledge workers, and not one of sex workers.
 
