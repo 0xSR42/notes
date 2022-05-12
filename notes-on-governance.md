@@ -97,6 +97,9 @@ humans. Conflict can be physical, verbal or psychological. Other ways to
 define conflict could be along the lines of gender, caste, community, race,
 religion, culture or nation.
 
+Cultures with conflicting tenets, are prone to engaging in real world conflict
+with each other.
+
 When it comes to whether to accept unjust peace or fight a just war, humans
 could choose to engage in the minimal conflict that allows
 for progress to be made on any given issue. Minimal conflict can be defined
