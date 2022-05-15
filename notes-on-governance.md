@@ -243,3 +243,14 @@ information quickly and connect with each other, but malicious human behaviour
 would require moderation. Also, content moderation and end-to-end encryption
 are not compatible with each other.
 ([Content moderation for end-to-end encrypted messaging](https://cyberlaw.stanford.edu/publications/content-moderation-end-end-encrypted-messaging))
+
+### Crime and Investigation
+
+Humans often commit vices, and have a tendency to commit crimes. Once a crime
+has happened, one question to be asked is whether to seek justice or revenge.
+
+The process of seeking justice would be to collect evidence, interrogate
+suspects, and formulate a theory which a judge or jury gets to decide upon.
+
+While interrogating suspects, good cop bad cop is a strategy proven to work.
+[Good cop/bad cop](https://en.wikipedia.org/wiki/Good_cop/bad_cop)
