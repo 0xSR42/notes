@@ -24,6 +24,11 @@ rapid generation of new jobs in economy for skilled and unskilled labour, by
 breaking the larger problem into smaller pieces which individuals or teams can
 solve.
 
+A startup's or a company's valuation and other financials are decided by market
+factors such as market size, investor interest, and customers' willingness to
+pay; and not necessarily by the novelty of the problem chosen or the solution
+being offered.
+
 The problems of governance, diversity, economics and culture can also be tied
 to a currency. In times of conflict and mistrust, digital and cryptocurrencies
 can allow preserving different cultures, by reducing their dependence on a
