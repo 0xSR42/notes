@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 0xSR42's Blog
+title: 0xSR42's Notes
 permalink: /notes/
 ---
 
