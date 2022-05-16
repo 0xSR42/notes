@@ -1,4 +1,8 @@
-# Notes on Economics
+---
+layout: page
+title: Notes on Economics
+permalink: /notes/notes-on-economics/
+---
 
 Socialist economies are more peaceful, as they cater to needs of more people.
 But crony socialism can creep into institutions, corrupting them in the

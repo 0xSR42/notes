@@ -1,4 +1,10 @@
-# Bharat
+---
+layout: page
+title: Vision for Subcontinent
+permalink: /notes/vision-for-subcontinent/
+---
+
+### Bharat
 
 Bharatiya culture but less conservative than status quo.
 
@@ -7,7 +13,7 @@ but still matching today’s standard for infrastructure.
 
 Bharatiya governance, legal, medical, engineering systems.
 
-# India
+### India
 
 A mix of world’s cultures.
 
@@ -16,7 +22,7 @@ of the west, the east and the middle east.
 
 International governance, legal, medical, engineering systems.
 
-# Miscellaneous
+### Miscellaneous
 
 Individual cities would have the choice to align with either Bharat or India.
 But it’s likely that they will either end up aligning with a regional power,

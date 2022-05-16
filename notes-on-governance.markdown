@@ -1,4 +1,8 @@
-# Notes on Governance
+---
+layout: page
+title: Notes on Governance
+permalink: /notes/notes-on-governance/
+---
 
 DISCLAIMER: Just like any theory of governance, these notes are based on the
 knowledge and conditions of the time when they were written. These notes may
