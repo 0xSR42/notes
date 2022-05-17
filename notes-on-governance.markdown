@@ -265,7 +265,8 @@ Humans often commit vices, and have a tendency to commit crimes. Once a crime
 has happened, one question to be asked is whether to seek justice or revenge.
 
 The process of seeking justice would be to collect evidence, interrogate
-suspects, and formulate a theory which a judge or jury gets to decide upon.
+suspects, and formulate a theory which a judge or jury gets to decide upon and
+deliver a sentence or punishment.
 
 While interrogating suspects, good cop bad cop is a strategy proven to work.
 [Good cop/bad cop](https://en.wikipedia.org/wiki/Good_cop/bad_cop)
