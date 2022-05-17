@@ -20,6 +20,17 @@ Closed source governance systems can also be broken down if you have a worthy
 or notorious adversary.
 ([iCloud Leaks](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak))
 
+Breaking down of a governance system could be defined as converting a
+functional governance system into a dysfunctional one. It could also include
+loss of infrastructure, deterioration of culture, deaths of key personnel and
+other organization members.
+
+Once a governance system has been broken down, its worth putting some efforts
+into doing a root cause analysis to find out whether it was stupidty or malice
+that led to the aforementioned collapse. But eventually, a newer, more
+fault-tolerant, and overall better designed governance system would be needed
+to succeed the older one.
+
 ### Ideology and Truth
 
 (This section lacks logical rigor.)
@@ -62,8 +73,8 @@ dissent is counterproductive to development of society.
 
 One way to model the world is to see it as a psychological machine,
 where information is entering and leaving minds (and bodies) and making these
-beings undertake some cause (karma) or effect (phala) to change things around
-them. If you know what others are thinking, you can predict future to some
+beings undertake some cause (karma) or effect (phala) to bring real world
+change. If you know what others are thinking, you can predict future to some
 degree. Reincarnation is a future being continuing the work of a deceased one.
 Law of Karma is more general than tit-for-tat and entails a Karmic cycle.
 (Psychology, Gita)
