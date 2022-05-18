@@ -18,7 +18,8 @@ Play chess and other games with your adversaries to build reputation or trust.
 
 Closed source governance systems can also be broken down if you have a worthy
 or notorious adversary.
-([iCloud Leaks](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak))
+([Russian Revolution](https://en.wikipedia.org/wiki/Russian_Revolution),
+[iCloud Leaks](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak))
 
 Breaking down of a governance system could be defined as converting a
 functional governance system into a dysfunctional one. It could also include
@@ -113,7 +114,8 @@ define conflict could be along the lines of gender, caste, community, race,
 religion, culture or nation.
 
 Cultures with conflicting tenets, are prone to engaging in real world conflict
-with each other.
+with each other. Furthermore, there can be massive variance in morality across
+cultures, which can be a source of conflict as well.
 
 When it comes to whether to accept unjust peace or fight a just war, humans
 could choose to engage in the minimal conflict that allows
