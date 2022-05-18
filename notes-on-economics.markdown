@@ -6,7 +6,8 @@ permalink: /notes/notes-on-economics/
 
 Socialist economies are more peaceful, as they cater to needs of more people.
 But crony socialism can creep into institutions, corrupting them in the
-process.
+process. A universal basic income, or state sponsored basic needs such as
+food, water, shelter and clothing; would be needed for a socialist economy.
 
 Free market capitalism rewards hard work and smart work alike, but malevolent
 actors can cheat to their advantage.
