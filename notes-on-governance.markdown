@@ -13,13 +13,23 @@ case.
 ### Game Theory and Governance
 
 Open source governance systems can be broken down by adversaries.
-Play chess and other games with your adversaries to build reputation or trust.
-(Game Theory, [The Evolution of Trust](https://ncase.me/trust/))
+([The Emergency](https://en.wikipedia.org/wiki/The_Emergency_(India)))
 
 Closed source governance systems can also be broken down if you have a worthy
 or notorious adversary.
 ([Russian Revolution](https://en.wikipedia.org/wiki/Russian_Revolution),
 [iCloud Leaks](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak))
+
+Play chess and other games with your adversaries to build reputation or trust.
+(Game Theory, [The Evolution of Trust](https://ncase.me/trust/))
+
+An open governance system is one which is visibly open to the outside world.
+An open source governance system is one whose working is understood by the
+outside world. Closed and closed source governance systems would be defined as
+the opposite of the previous two terms. USA and India are open and open
+source governance systems. Middle East and China are open but closed source.
+North Korea is a closed and closed source governance system. A closed but open
+source governance system would be an oxymoron.
 
 Breaking down of a governance system could be defined as converting a
 functional governance system into a dysfunctional one. It could also include
