@@ -21,6 +21,9 @@ or notorious adversary.
 [iCloud Leaks](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak))
 
 Play chess and other games with your adversaries to build reputation or trust.
+Other games to play could be poker, age of empires, dota, etc; but each
+game gives advantage to certain demographics of population over other,
+therefore care has to be taken when deciding which game to play.
 (Game Theory, [The Evolution of Trust](https://ncase.me/trust/))
 
 An open governance system is one which is visibly open to the outside world.
