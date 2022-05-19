@@ -32,9 +32,9 @@ solve.
 
 Enterprises can also be seen as empires, and therefore are subject to internal
 and external conflict. One way to grow a startup rapidly, would be to wage an
-economic war on your competitiors. But one has to be careful, for corporate
-conflict can escalate into geopolitical conflict, in case of multinational
-corporations.
+economic war on your competitiors, and disrupt their operations. But one has
+to be careful, for corporate conflict can escalate into geopolitical conflict,
+in case of multinational corporations.
 
 A startup's or a company's valuation and other financials are decided by market
 factors such as market size, investor interest, and customers' willingness to
