@@ -274,6 +274,10 @@ would require moderation. Also, content moderation and end-to-end encryption
 are not compatible with each other.
 ([Content moderation for end-to-end encrypted messaging](https://cyberlaw.stanford.edu/publications/content-moderation-end-end-encrypted-messaging))
 
+The kind of technology a person can operate and moderate is also dependent on
+their ancestry. A Vaishya is better suited to run a financial platform, and a
+Kshatriya is a better choice to run a social platform.
+
 ### Crime and Investigation
 
 Humans often commit vices, and have a tendency to commit crimes. Once a crime
