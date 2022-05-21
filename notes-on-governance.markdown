@@ -179,7 +179,9 @@ To effectively break caste system, you need folks of all four varnas with
 roughly equal proportion, amongst all castes (, community, race or religion).
 
 A person’s caste decides their behavior to some extent, but the likely
-contributing factor there is that person’s DNA, psychology and personality.
+contributing factor there is that person’s DNA (or ancestry) and psychology
+(or personality). Therefore, a person's varna also gets affected by these
+traits.
 
 The varna system is an elegant and minimal governance system. It has one
 ordinary varna (Sudra) and three specialist ones (Brahmin, Kshatriya, Vaisya).
@@ -275,7 +277,7 @@ are not compatible with each other.
 ([Content moderation for end-to-end encrypted messaging](https://cyberlaw.stanford.edu/publications/content-moderation-end-end-encrypted-messaging))
 
 The kind of technology a person can operate and moderate is also dependent on
-their ancestry. A Vaishya is better suited to run a financial platform, and a
+their varna. A Vaishya is better suited to run a financial platform, and a
 Kshatriya is a better choice to run a social platform.
 
 ### Crime and Investigation
