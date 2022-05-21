@@ -22,7 +22,7 @@ combine socialism and capitalism differently in their respective economies.
 Public companies can be seen as governance models as they share many problems
 with a government, such as those of governance, diversity, economics and
 culture. Therefore, the sister governance notes can be useful in corporate
-settings as well. ([Notes on Governance](notes-on-governance))
+settings as well. ([Notes on Governance](../notes-on-governance))
 
 Startups can be seen as instruments of change in real world, by solving real
 world problems. Furthermore, once a problem has been identified, startups allow
