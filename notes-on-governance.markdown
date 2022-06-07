@@ -8,7 +8,8 @@ DISCLAIMER: Just like any theory of governance, these notes are based on the
 knowledge and conditions of the time when they were written. These notes may
 or may not be fully applicable in other settings. The reader is advised to
 think about this material, and not to blindly obey and apply it for their use
-case.
+case. If wording of a given note is deemed as problematic, then the reader
+should consider tweaking it for their use case.
 
 ### Game Theory and Governance
 
@@ -22,8 +23,9 @@ or notorious adversary.
 
 Play chess and other games with your adversaries to build reputation or trust.
 Other games to play could be poker, age of empires, dota, etc; but each
-game gives advantage to certain demographics of population over other,
-therefore care has to be taken when deciding which game to play.
+game gives advantage to certain demographics of population over other, and can
+also have its own adverse effects if enacted in real world, therefore care has
+to be taken when deciding which game to play.
 (Game Theory, [The Evolution of Trust](https://ncase.me/trust/))
 
 An open governance system is one which is visibly open to the outside world.
@@ -90,7 +92,7 @@ where information is entering and leaving minds (and bodies) and making these
 beings undertake some cause (karma) or effect (phala) to bring real world
 change. If you know what others are thinking, you can predict future to some
 degree. Reincarnation is a future being continuing the work of a deceased one.
-Law of Karma is more general than tit-for-tat and entails a Karmic cycle.
+Law of Karma is different from cause-and-effect and entails a Karmic cycle.
 (Psychology, Gita)
 
 Developmental psychology must be taken care of when trying to raise the next
